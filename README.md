@@ -52,10 +52,7 @@ The dashboard focuses on key performance indicators such as revenue, customer be
 - Revenue reporting
 
 ## Project File
-- `final final uber(1).pbix` – Main Power BI report file
+- `uber.pbix` – Main Power BI report file
 
 ## Purpose
 The goal of this project is to transform raw Uber ride data into meaningful insights that support data-driven decision-making and improve operational efficiency.
-
-## Author
-Gehad Helmy
